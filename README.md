@@ -38,8 +38,8 @@ Atualização contínua, sempre que possível será adicionado novas funcionalid
 
 ## :bookmark_tabs: Funcionalidades
 
-<a href="#01---gerar-insert-com-select-excluindo-o-campo-serial">01 - Gerar INSERT com SELECT excluindo o campo serial</a>
-<a href="#">02 - EM DESENVOLVIMENTO</a>
+<a href="#01---gerar-insert-com-select-excluindo-o-campo-serial">01 - Gerar INSERT com SELECT excluindo o campo serial</a><br>
+<a href="#">02 - EM DESENVOLVIMENTO....</a>
 
 ## :rocket: Detalhes
 
