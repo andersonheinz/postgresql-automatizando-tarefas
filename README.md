@@ -1,20 +1,14 @@
 
-
 <h1 align="center">
-<img alt="Be The Hero" src="postgres.png" height="'130" width="200px">
-</h1>
-
-
-<h4 align="center">
   🚀 Automatizando tarefas com PostgresSQL
-</h4>
+</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/andersonheinz/postgresql-automatizando-tarefas">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/andersonheinz/postgresql-automatizando-tarefas">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
+  <a href="https://github.com/andersonheinz/postgresql-automatizando-tarefas/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andersonheinz/postgresql-automatizando-tarefas">
   </a>
 
@@ -34,15 +28,27 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+## :octocat: Projeto
+Esse repositório visa registar funcionalidades (funções/triggers/views..etc) que automatizam as tarefas realizadas no dia-a-dia. Apesar de ser focado em Postgres, as funcionalidades também podem ser aplicadas em outros bancos de dados, pois tem como base o SQL e pgplsql.
 
-## 🚀 Tecnologias
+<h1 align="center">SUMARIO</h1>
+
+### [01 - GENERATE INSERT VALUES WITHOUT NEXTVAL](https://github.com/andersonheinz/postgresql-automatizando-tarefas/blob/master/functions/generate_insert_values_without_nextval.sql)
+
+
+## 🚀 Recursos
+
+### 01 - GENERATE INSERT VALUES WITHOUT NEXTVAL
+Essa funcao...
+
+
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [PostgreSQL](https://nodejs.org/en/)
+- [SQL](https://reactjs.org)
+- [PLSQL](https://facebook.github.io/react-native/)
+
 
 
 ## :octocat: Projeto
