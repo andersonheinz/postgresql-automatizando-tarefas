@@ -36,9 +36,9 @@ Esse repositório visa registar funcionalidades (funções/triggers/views..etc) 
 <h2 align="center">SUMÁRIO</h2>
 <a href="#01---generate-insert-values-without-nextval">01 - GENERATE INSERT VALUES WITHOUT NEXTVAL</a>
 
-<br>
+<br><br>
 
-## 🚀 Recursos
+## :rocket: Recursos
 
 ### 01 - GENERATE INSERT VALUES WITHOUT NEXTVAL
 Essa função foi criada para fazer INSERT à partir de um SELECT, trazendo o resultado sem o campo serial(nextval).
