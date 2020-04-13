@@ -45,7 +45,7 @@ Atualização contínua, sempre que possível será adicionado novas funcionalid
 ## :rocket: Detalhes
 
 ### 01 - Gerar INSERT com SELECT excluindo o campo serial
-Em tabelas com vários campos, gerar manualmente torna-se muito trabalhoso. Com essa função basta informar a tabela.
+Em tabelas com vários campos, gerar manualmente torna-se muito trabalhoso, com essa função basta informar a tabela.
 <div align="center">
 <img alt="Be The Hero" src="assets/gifs/generate_insert_values_without_nextval.gif">
 </div>
