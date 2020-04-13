@@ -44,9 +44,9 @@ Esse repositório visa registar funcionalidades (funções/triggers/views..etc) 
 
 ### 01 - GENERATE INSERT VALUES WITHOUT NEXTVAL
 Essa função foi criada para fazer INSERT à partir de um SELECT, trazendo o INSERT pronto sem o campo serial(nextval).
-<h1 align="center">
+<div align="center">
 <img alt="Be The Hero" src="assets/gifs/generate_insert_values_without_nextval.gif">
-</h1>
+</div>
 
 ##### [Ir para o código](https://github.com/andersonheinz/postgresql-automatizando-tarefas/blob/master/functions/generate_insert_values_without_nextval.sql)
 
