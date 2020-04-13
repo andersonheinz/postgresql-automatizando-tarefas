@@ -39,8 +39,7 @@ Atualização contínua, sempre que possível será adicionado novas funcionalid
 ## :bookmark_tabs: Funcionalidades
 
 <a href="#01---gerar-insert-com-select-excluindo-o-campo-serial">01 - Gerar INSERT com SELECT excluindo o campo serial</a>
-
-<br>
+<a href="#">02 - EM DESENVOLVIMENTO</a>
 
 ## :rocket: Detalhes
 
@@ -52,9 +51,6 @@ Em tabelas com vários campos, gerar manualmente torna-se muito trabalhoso. Com 
 
 <a href="https://github.com/andersonheinz/postgresql-automatizando-tarefas/blob/master/functions/generate_insert_values_without_nextval.sql">Ir para o código</a>
 
-### 02 - EM DESENVOLVIMENTO...
-
-<br>
 
 ## :memo: Licença
 
