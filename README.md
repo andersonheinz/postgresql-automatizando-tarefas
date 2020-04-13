@@ -24,6 +24,7 @@
 
 <p align="center">
   <a href="#octocat-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#recycle-atualizacao">Atualização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark_tabs-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#rocket-detalhes">Detalhes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -32,28 +33,30 @@
 ## :octocat: Projeto
 Esse repositório visa registar funcionalidades (funções/triggers/views..etc) que automatizam as tarefas realizadas no dia-a-dia. Apesar de ser focado em Postgres, as funcionalidades também podem ser aplicadas em outros bancos de dados, pois tem como base SQL e pgplsql.
 
-<br>
+## :recycle: Atualização
+Atualização contínua, sempre que possível será adicionado novas funcionalidades.
 
 ## :bookmark_tabs: Funcionalidades
 
-<a href="#01---generate-insert-values-without-nextval">01 - GENERATE INSERT VALUES WITHOUT NEXTVAL</a>
+<a href="#01---gerar-insert-com-select-excluindo-o-campo-serial">01 - Gerar INSERT com SELECT excluindo o campo serial</a>
 
 <br>
 
 ## :rocket: Detalhes
 
-### 01 - GENERATE INSERT VALUES WITHOUT NEXTVAL
-Essa função foi criada para fazer INSERT à partir de um SELECT, trazendo o INSERT pronto sem o campo serial(nextval).
+### 01 - Gerar INSERT com SELECT excluindo o campo serial
+Em tabelas com vários campos, gerar manualmente torna-se muito trabalhoso. Com essa função basta informar a tabela.
 <div align="center">
 <img alt="Be The Hero" src="assets/gifs/generate_insert_values_without_nextval.gif">
 </div>
 
 <a href="https://github.com/andersonheinz/postgresql-automatizando-tarefas/blob/master/functions/generate_insert_values_without_nextval.sql">Ir para o código</a>
 
+### 02 - EM DESENVOLVIMENTO...
+
 <br>
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-https://github.com/andersonheinz/postgresql-automatizando-tarefas#01---generate-insert-values-without-nextval
