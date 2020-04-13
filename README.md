@@ -1,3 +1,6 @@
+<h1 align="center">
+<img alt="Be The Hero" src="postgres.png" height="'130" width="200px">
+</h1>
 
 <h1 align="center">
   🚀 Automatizando tarefas com PostgresSQL
