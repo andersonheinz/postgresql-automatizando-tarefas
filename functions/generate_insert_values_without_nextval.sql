@@ -17,21 +17,17 @@ DECLARE
 BEGIN
     SELECT
         INTO v_fields ARRAY_TO_STRING(ARRAY (
-                SELECT
-                    COLUMN_NAME::varchar(50)
-                FROM INFORMATION_SCHEMA.COLUMNS
-            WHERE
-                TABLE_NAME = _table
-                AND COLUMN_NAME NOT IN (
-                    SELECT
-                        column_name FROM information_schema.columns
-                    WHERE
-                        table_name = _table
-                        AND column_default ILIKE 'nextval%')
-            ORDER BY ORDINAL_POSITION), ', ');
+SELECT COLUMN_NAME::varchar(50) FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = _table
+AND COLUMN_NAME NOT IN (SELECT column_name FROM information_schema.columns WHERE table_name = _table
+AND column_default ILIKE 'nextval%') ORDER BY ORDINAL_POSITION), ', ');
     SELECT
         INTO v_output 'INSERT INTO ' || _table || '(' || v_fields || ') SELECT ' || v_fields || ' FROM '|| _table ||';';
     RETURN v_output;
 END;
 $$
 LANGUAGE plpgsql;
+
+
+SELECT COLUMN_NAME::varchar(50) FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'web01'
+AND COLUMN_NAME NOT IN (SELECT column_name FROM information_schema.columns WHERE table_name = 'web01'
+AND column_default ILIKE 'nextval%') ORDER BY ORDINAL_POSITION), ', ');
