@@ -24,8 +24,8 @@
 
 <p align="center">
   <a href="#octocat-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#octocat-projeto">Sumário</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#rocket-recursos">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#octocat-projeto">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#bookmark_tabs-detalhes">Detalhes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -34,13 +34,13 @@ Esse repositório visa registar funcionalidades (funções/triggers/views..etc) 
 
 <br>
 
-## :bookmark_tabs: Recursos - Lista
+## :bookmark_tabs: Funcionalidades
 
 <a href="#01---generate-insert-values-without-nextval">01 - GENERATE INSERT VALUES WITHOUT NEXTVAL</a>
 
 <br><br>
 
-## :rocket: Recursos - Funcionalidades
+## :rocket: Detalhes
 
 ### 01 - GENERATE INSERT VALUES WITHOUT NEXTVAL
 Essa função foi criada para fazer INSERT à partir de um SELECT, trazendo o INSERT pronto sem o campo serial(nextval).
