@@ -38,7 +38,7 @@ Esse repositório visa registar funcionalidades (funções/triggers/views..etc) 
 
 <a href="#01---generate-insert-values-without-nextval">01 - GENERATE INSERT VALUES WITHOUT NEXTVAL</a>
 
-<br><br>
+<br>
 
 ## :rocket: Detalhes
 
