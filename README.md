@@ -31,7 +31,7 @@
 </p>
 
 ## :octocat: Projeto
-Esse repositório visa registar funcionalidades (funções/triggers/views..etc) que automatizam as tarefas realizadas no dia-a-dia. Apesar de ser focado em Postgres, as funcionalidades também podem ser aplicadas em outros bancos de dados, pois tem como base SQL e pgplsql.
+Esse repositório visa registar funcionalidades (funções/triggers/views..etc) que automatizam as tarefas realizadas no dia-a-dia. Apesar do foco em Postgres, as funcionalidades também podem ser aplicadas em outros bancos de dados, pois tem como base SQL e PLPGSQL.
 
 ## :recycle: Atualização
 Atualização contínua, sempre que possível será adicionado novas funcionalidades.
