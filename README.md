@@ -18,7 +18,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andersonheinz/postgresql-automatizando-tarefas">
   </a>
 
-  <a href="https://rocketseat.com.br">
+  <a href="#">
     <img alt="Made by Anderson Heinz" src="https://img.shields.io/badge/made%20by-andersonheinz-red">
   </a>
 
