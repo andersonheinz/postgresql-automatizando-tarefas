@@ -24,24 +24,26 @@
 
 <p align="center">
   <a href="#octocat-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#octocat-projeto">Sumário</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#rocket-recursos">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 ## :octocat: Projeto
-Esse repositório visa registar funcionalidades (funções/triggers/views..etc) que automatizam as tarefas realizadas no dia-a-dia. Apesar de ser focado em Postgres, as funcionalidades também podem ser aplicadas em outros bancos de dados, pois tem como base o SQL e pgplsql.
+Esse repositório visa registar funcionalidades (funções/triggers/views..etc) que automatizam as tarefas realizadas no dia-a-dia. Apesar de ser focado em Postgres, as funcionalidades também podem ser aplicadas em outros bancos de dados, pois tem como base SQL e pgplsql.
 
 <br>
 
-<h2 align="center">SUMÁRIO</h2>
+## :bookmark_tabs: Recursos - Lista
+
 <a href="#01---generate-insert-values-without-nextval">01 - GENERATE INSERT VALUES WITHOUT NEXTVAL</a>
 
 <br><br>
 
-## :rocket: Recursos
+## :rocket: Recursos - Funcionalidades
 
 ### 01 - GENERATE INSERT VALUES WITHOUT NEXTVAL
-Essa função foi criada para fazer INSERT à partir de um SELECT, trazendo o resultado sem o campo serial(nextval).
+Essa função foi criada para fazer INSERT à partir de um SELECT, trazendo o INSERT pronto sem o campo serial(nextval).
 <h1 align="center">
 <img alt="Be The Hero" src="assets/gifs/generate_insert_values_without_nextval.gif">
 </h1>
