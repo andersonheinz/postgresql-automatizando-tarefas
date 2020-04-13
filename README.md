@@ -48,7 +48,7 @@ Essa função foi criada para fazer INSERT à partir de um SELECT, trazendo o IN
 <img alt="Be The Hero" src="assets/gifs/generate_insert_values_without_nextval.gif">
 </div>
 
-##### [Ir para o código](https://github.com/andersonheinz/postgresql-automatizando-tarefas/blob/master/functions/generate_insert_values_without_nextval.sql)
+<a href="https://github.com/andersonheinz/postgresql-automatizando-tarefas/blob/master/functions/generate_insert_values_without_nextval.sql">Ir para o código</a>
 
 <br>
 
