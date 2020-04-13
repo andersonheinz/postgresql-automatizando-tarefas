@@ -34,9 +34,7 @@ Esse repositório visa registar funcionalidades (funções/triggers/views..etc) 
 <br>
 
 <h2 align="center">SUMÁRIO</h2>
-
-
-<a href="#wrench-instala%C3%A7%C3%A3o">01 - GENERATE INSERT VALUES WITHOUT NEXTVAL</a>
+<a href="-01---generate-insert-values-without-nextval">01 - GENERATE INSERT VALUES WITHOUT NEXTVAL</a>
 
 <br>
 
@@ -51,3 +49,5 @@ Essa função foi criada para fazer INSERT à partir de um SELECT, trazendo o re
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+https://github.com/andersonheinz/postgresql-automatizando-tarefas#01---generate-insert-values-without-nextval
