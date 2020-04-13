@@ -34,7 +34,7 @@ Esse repositório visa registar funcionalidades (funções/triggers/views..etc) 
 <br>
 
 <h2 align="center">SUMÁRIO</h2>
-<a href="-01---generate-insert-values-without-nextval">01 - GENERATE INSERT VALUES WITHOUT NEXTVAL</a>
+<a href="#01---generate-insert-values-without-nextval">01 - GENERATE INSERT VALUES WITHOUT NEXTVAL</a>
 
 <br>
 
