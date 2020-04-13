@@ -1,25 +1,25 @@
 
 
 <h1 align="center">
-<img alt="Be The Hero" src="frontend/src/assets/logo.svg" height="'130" width="200px">
+<img alt="Be The Hero" src="postgres.png" height="'130" width="200px">
 </h1>
 
 
 <h4 align="center">
-  🚀 Semana OmniStack 11.0
+  🚀 Automatizando tarefas com PostgresSQL
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/andersonheinz/react-semanaoministack11-rocketseat">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/andersonheinz/postgresql-automatizando-tarefas">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andersonheinz/react-semanaoministack11-rocketseat">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andersonheinz/postgresql-automatizando-tarefas">
   
   <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andersonheinz/react-semanaoministack11-rocketseat">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andersonheinz/postgresql-automatizando-tarefas">
   </a>
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
+    <img alt="Made by Anderson Heinz" src="https://img.shields.io/badge/made%20by-andersonheinz-red">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
