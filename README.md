@@ -45,6 +45,7 @@ Essa função foi criada para fazer INSERT à partir de um SELECT, trazendo o re
 <h1 align="center">
 <img alt="Be The Hero" src="assets/gifs/generate_insert_values_without_nextval.gif">
 </h1>
+
 ##### [Ir para o código](https://github.com/andersonheinz/postgresql-automatizando-tarefas/blob/master/functions/generate_insert_values_without_nextval.sql)
 
 <br>
