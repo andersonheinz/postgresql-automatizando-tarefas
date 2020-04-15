@@ -26,8 +26,3 @@ AND column_default ILIKE 'nextval%') ORDER BY ORDINAL_POSITION), ', ');
 END;
 $$
 LANGUAGE plpgsql;
-
-
-SELECT COLUMN_NAME::varchar(50) FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'web01'
-AND COLUMN_NAME NOT IN (SELECT column_name FROM information_schema.columns WHERE table_name = 'web01'
-AND column_default ILIKE 'nextval%') ORDER BY ORDINAL_POSITION), ', ');
