@@ -47,7 +47,7 @@ Atualização contínua, sempre que possível será adicionado novas funcionalid
 ### 01 - Gerar INSERT com SELECT excluindo o campo serial
 Em tabelas com vários campos, gerar manualmente torna-se muito trabalhoso, com essa função basta informar a tabela.
 <div align="center">
-<img alt="Be The Hero" src="assets/gifs/generate_insert_values_without_nextval.gif">
+<img alt="01-.gif" src="assets/gifs/generate_insert_values_without_nextval.gif">
 </div>
 
 <a href="https://github.com/andersonheinz/postgresql-automatizando-tarefas/blob/master/functions/generate_insert_values_without_nextval.sql">Ir para o código</a>
